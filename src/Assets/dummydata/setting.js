@@ -1,0 +1,23 @@
+export const dumydata = {
+  "Chemicals and Gases": "chemical-and-gases",
+  "Goods and Services": "goods-and-services",
+  "Inbound Transport": "inbound-transport",
+  "SuppilerElectricityConsumption": "suppilerelectricityconsumption",
+  "Buyer Fuel Consumption": "buyer-fuel-consumption",
+  "BuyerElectricity Consumption": "buyerElectricity-consumption",
+  "Outbound Transport": "outbound-transport",
+  "Business Travel": "business-travel",
+  "Employee Commuting": "employee-commuting",
+  "Warehouse Fuel Consumption": "warehouse-fuel-consumption",
+  "WarehouseElectricityConsumption": "warehouseelectricityconsumption",
+  "SupplierLeased or Rented Assets": "supplierleased-or-rented-assets",
+  "Buyer Leased or Rented Assets": "buyerleased-or-rentedassets",
+  "Waste Materials": "waste-materials",
+  "Subsidiary Fuel Consumption": "subsidiary-fuel-consumption",
+  "SubsidiaryElectricityConsumption": "subsidiaryelectricityconsumption",
+  "Use of Sold Product": "sold-product",
+  "FranchiseElectricityConsumption": "franchiseelectricityconsumption",
+  "Raw Materials": "row-materials",
+  "FranchiseFuelConsumption": "franchisefuelconsumption",
+  "Supplier Fuel Consumption":"Supplier Fuel Consumption"
+};
